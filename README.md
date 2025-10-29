@@ -1,4 +1,4 @@
-# **KAKUAKIRADESU**
+# 郭旭
 ```python
 myinfo = {
 '名前': '郭旭',
