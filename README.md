@@ -12,5 +12,6 @@ print(myinfo)
  print("『コードも人生も、デバッグしながら前進する。』")
 ```
 #myphoto.jpg
-<img width="736" height="492" alt=" 2025-10-29 105907" src="https://github.com/user-attachments/assets/9d84870c-2c0f-4279-b233-dd052aba1b3e" />
+<img width="736" height="492" alt="2025-10-29 105907" src="https://github.com/user-attachments/assets/9d84870c-2c0f-4279-b233-dd052aba1b3e" />
+<img width="594" height="518" alt="2025-10-29 110808" src="https://github.com/user-attachments/assets/594cf0f7-5c47-4605-a535-6616f198c0c7" />
 
