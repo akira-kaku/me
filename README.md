@@ -10,4 +10,7 @@ print(myinfo)
 # 座右の銘
 ```python
  print("『コードも人生も、デバッグしながら前進する。』")
-# 
+```
+#myphoto.jpg
+<img width="736" height="492" alt=" 2025-10-29 105907" src="https://github.com/user-attachments/assets/9d84870c-2c0f-4279-b233-dd052aba1b3e" />
+
